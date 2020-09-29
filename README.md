@@ -3,8 +3,11 @@
 ## Before you do anything Fork this!
 
 `npm install` to install dependencies
+
 `npm start` to run web server
+
 `git checkout solution` to go to solution branch (commit your changes to master first!)
+
 `git checkout master` to go back
 
 
