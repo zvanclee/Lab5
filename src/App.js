@@ -25,6 +25,8 @@ const default_todoList = [
 ];
 
 //TODO 3: Make it so that the user's todos load back when they refresh
+//Hint: use localStorage.setItem/getItem and JSON.stringify/parse
+//  if you mess up setting the local storage you can .clear() it
 
 class App extends Component {
   state = {
